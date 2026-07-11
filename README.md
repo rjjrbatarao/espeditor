@@ -86,6 +86,7 @@ console.log(x);`
 
 ## References
 ```
+https://github.com/zmitry/light-code-editor
 https://github.com/speed-highlight/core
 https://asvd.github.io/microlight/
 https://github.com/rcarubbi/ReactBlocklyEditor
