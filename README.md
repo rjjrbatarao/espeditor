@@ -84,8 +84,9 @@ console.log(x);`
 }
 ```
 
-## Sources
+## References
 ```
+https://github.com/speed-highlight/core
 https://asvd.github.io/microlight/
 https://github.com/rcarubbi/ReactBlocklyEditor
 ```
