@@ -1,5 +1,5 @@
 # espeditor
-ESP light weight web based lua code editor
+ESP light weight web based code editor
 
 ## 1. Install
 ```javascript
